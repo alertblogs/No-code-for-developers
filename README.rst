@@ -24,11 +24,15 @@ However, like Nigel, developers tend to want to do things themselves. They donâ€
 But maybe no-code for developers is not such a bad thing. After all, in the hands of a rock-star developer, maybe that app can be cranked to eleven, and we could all be rock gods like Spinal Tap.
 
 Learn more about what AlertOps has to offer for no-code development.
+
 Source:
 ========
+
 https://alertops.com/no-code-for-developers
+
 readmore:
 ========
+
 https://alertops.com/devops-automation
 https://alertops.com/devops-barriers
 https://alertops.com/what-is-devops
