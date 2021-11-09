@@ -1,59 +1,44 @@
-Red Canary says 43% Lack Readiness to Notify Customers of a Security Breach
+No-code for developers
 ========
 
- 
- The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them.
+Today there is a lot of buzz about no-code and low-code development. Typically, the talk is about non-developers or “citizen developers” using no-code / low-code approaches, but it can also be an option for developers.
 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+In the movie Spinal Tap, Nigel Tufnel explains to Marty DiBergi (the film maker) that he has modified his amplifiers so the all the volume knobs go up to eleven, rather than ten.
 
-Not One Size Fits All
-========
+Marty: “Does that mean it’s louder? Is it any louder?”
 
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+Nigel: “Well, it’s one louder, isn’t it? It’s not ten. You see, most blokes, you know, will be playing at ten…Where can you go from there? Where?”
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Marty: “Why don’t you make ten a little louder? Make that the top number and make that a little louder?”
 
-Automate Processes
-========
+Nigel: “These go to eleven.”
 
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Developers are constantly being asked to do more and do it faster. Develop new business-critical apps. Deploy code more quickly. Deploy less buggy code. Keep up with technology. Step into quasi-support roles. Train new developers. Keep up with the latest streaming episodes on your favorite TV show. The demands can be mind-boggling.
 
-Clarity
-========
+There are many options to address these needs. Agile processes, continuous integration and continuous deployment (CI/CD). DevOps. Following blogs about your favorite streaming shows.
 
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Today there is a lot of buzz about no-code and low-code development. Typically, the talk is about non-developers or “citizen developers” using no-code / low-code approaches, but it can also be an option for developers.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
- 
-Insightful Notifications
-========
+However, like Nigel, developers tend to want to do things themselves. They don’t like out-of-the-box solutions when they know they can build something better.
 
+But maybe no-code for developers is not such a bad thing. After all, in the hands of a rock-star developer, maybe that app can be cranked to eleven, and we could all be rock gods like Spinal Tap.
 
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-========
-
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
+Learn more about what AlertOps has to offer for no-code development.
 
 Source:
 ========
-alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach
 
-readmore:
+https://alertops.com/no-code-for-developers
+
+Read more:
 ========
 
-alertops.com/covid-pandemic-business-continuity
-https://alertops.com/stakeholder-communications-plan
-https://alertops.com/incident-management-metrics
-https://alertops.com/incident-management-process
-https://alertops.com/it-process-automation-for-managed-service-providers
-https://alertops.com/application-performance-monitoring
-https://alertops.com/alertops-expert-guidance
-https://alertops.com/alertops-automation
-https://alertops.com/it-monitoring
-https://alertops.com/alertops-flexibility/
+https://alertops.com/devops-automation
+https://alertops.com/devops-barriers
+https://alertops.com/what-is-devops
+https://alertops.com/msps-cloud-services
+https://alertops.com/on-call-rotation
+https://alertops.com/implement-it-service-alerting
+https://alertops.com/devops-periodic-table
+https://alertops.com/devops-roadmap
+https://alertops.com/continuous-delivery-impacts-devops
