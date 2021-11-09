@@ -30,7 +30,7 @@ Source:
 
 https://alertops.com/no-code-for-developers
 
-readmore:
+Read more:
 ========
 
 https://alertops.com/devops-automation
